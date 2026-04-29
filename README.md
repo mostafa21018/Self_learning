@@ -20,11 +20,10 @@
     *   دي معايير عالمية (PHP Standards Recommendations) بتنظم طريقة كتابة الكود عشان المبرمجين والمكتبات يفهموا بعض.
     *   من أهمها **PSR-4** اللي بنستخدمه في الـ Autoloading للـ Clases.
 
-*   **[Installation Guide](./Install%20Laravel%20in%20windows.md)**: 💻
-    *   خطوات تثبيت Laravel على بيئة عمل Windows.
 
 ## 🧠 Workflow with Obsidian
 الملفات اللي في الـ Repo ده هي عبارة عن **Markdown files** مكتوبه باستخدام برنامج **Obsidian**:
 1.  كل ملف بيحتوي على روابط داخلية عشان تربط المفاهيم ببعضها.
 2.  تقدر تعمل `Clone` للـ Repo ده وتفتحه كـ `Vault` في Obsidian عشان تشوف التنسيق والروابط زي ما أنا عاملها بالظبط.
 
+Laravel playlist :https://youtube.com/playlist?list=PLcfD4HARQRF9BFWK16B4nTeZDn5AoIRws&si=eEgzCulgIuPaX2n9
